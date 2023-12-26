@@ -1,0 +1,206 @@
+
+
+ at 2023/02/10 11:02:18: program has been started
+
+ at 2023/02/10 11:03:03: "amir5" has signed in
+
+ at 2023/02/10 11:03:35: "amir5" has added 100$ to his account 
+
+ at 2023/02/10 11:03:35:  100$ has been added to Cafe's account
+
+ at 2023/02/10 11:04:25: "amir5" has ordered:  (Salad,)
+
+ at 2023/02/10 11:04:50: "amir5" has signed out
+
+ at 2023/02/10 11:04:55: "amir" has signed in
+
+ at 2023/02/10 11:06:05: amount "1" has been decreased from all ingredients in the storage  
+
+ at 2023/02/10 11:06:45: "1" Tea has been added to storage
+
+ at 2023/02/10 11:06:47: "1" Water has been added to storage
+
+ at 2023/02/10 11:07:24: "amir" has signed out
+
+ at 2023/02/10 11:07:40: "ali" has been created
+ 
+ at 2023/02/10 11:07:46: "ali" has signed in
+
+ at 2023/02/10 11:07:51: "ali" has added 100$ to his account 
+
+ at 2023/02/10 11:07:51:  100$ has been added to Cafe's account
+
+ at 2023/02/10 11:09:36: "ali" has ordered:  (Salad,)
+
+ at 2023/02/10 11:09:59: "ali" has signed out
+
+ at 2023/02/10 11:10:16: "amir" has signed in
+
+ at 2023/02/10 11:11:01: "amir" has canceled order with id: 11:04:25.977383300
+
+ at 2023/02/10 11:11:22: "amir" has closed the program
+
+
+ at 2023/02/10 17:40:33: program has been started
+
+ at 2023/02/10 17:40:40: "amir1" has signed in
+
+ at 2023/02/10 17:40:48: "amir1" has added 100$ to his account 
+
+ at 2023/02/10 17:40:48:  100$ has been added to Cafe's account
+
+ at 2023/02/10 17:41:01: "amir1" has ordered:  (Water,)
+
+ at 2023/02/10 17:41:12: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:41:47: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:41:52: "amir1" has won 5$
+
+ at 2023/02/10 17:41:57: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:42:15: "amir1" has lost the game "Razm"
+
+ at 2023/02/10 17:42:33: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:42:39: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:42:44: "amir1" has won 50$
+
+ at 2023/02/10 17:42:48: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:42:55: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:43:00: "amir1" has won 5$
+
+ at 2023/02/10 17:43:04: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:43:12: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:43:17: "amir1" has won 25$
+
+ at 2023/02/10 17:43:29: "amir1" has ordered:  ())
+
+ at 2023/02/10 17:43:34: "amir1" has started the game "Camera"
+
+ at 2023/02/10 17:43:42: "amir1" has won the game "Camera"
+
+ at 2023/02/10 17:43:47: "amir1" has won 10$
+
+ at 2023/02/10 17:43:49: "amir1" has started the game "Camera"
+
+ at 2023/02/10 17:43:57: "amir1" has lost the game "Camera"
+
+ at 2023/02/10 17:44:02: "amir1" has started the game "Camera"
+
+ at 2023/02/10 17:44:09: "amir1" has lost the game "Camera"
+
+ at 2023/02/10 17:44:11: "amir1" has started the game "Camera"
+
+ at 2023/02/10 17:44:18: "amir1" has lost the game "Camera"
+
+ at 2023/02/10 17:44:26: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:44:34: "amir1" has lost the game "Razm"
+
+ at 2023/02/10 17:44:41: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:44:48: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:44:53: "amir1" has won 5$
+
+ at 2023/02/10 17:44:55: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:45:01: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:45:06: "amir1" has won 10$
+
+ at 2023/02/10 17:45:09: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:45:15: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:45:20: "amir1" has won 5$
+
+ at 2023/02/10 17:45:23: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:45:29: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:45:34: "amir1" has won 10$
+
+ at 2023/02/10 17:45:37: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:45:43: "amir1" has lost the game "Razm"
+
+ at 2023/02/10 17:45:53: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:46:48: "amir1" has started the game "Camera"
+
+ at 2023/02/10 17:46:52: "amir1" has added 50$ to his account 
+
+ at 2023/02/10 17:46:52:  50$ has been added to Cafe's account
+
+ at 2023/02/10 17:46:54: "amir1" has started the game "Camera"
+
+ at 2023/02/10 17:47:16: "amir1" has lost the game "Camera"
+
+ at 2023/02/10 17:47:19: "amir1" has started the game "Camera"
+
+ at 2023/02/10 17:47:53: "amir1" has won the game "Camera"
+
+ at 2023/02/10 17:47:58: "amir1" has won 30$
+
+ at 2023/02/10 17:48:02: "amir1" has started the game "Camera"
+
+ at 2023/02/10 17:48:09: "amir1" has lost the game "Camera"
+
+ at 2023/02/10 17:48:17: "amir1" has started the game "Camera"
+
+ at 2023/02/10 17:48:28: "amir1" has lost the game "Camera"
+
+ at 2023/02/10 17:48:39: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:48:45: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:48:50: "amir1" has won 10$
+
+ at 2023/02/10 17:49:02: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:49:08: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:49:13: "amir1" has won 10$
+
+ at 2023/02/10 17:49:16: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:49:23: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:49:28: "amir1" has won 10$
+
+ at 2023/02/10 17:49:46: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:49:53: "amir1" has lost the game "Razm"
+
+ at 2023/02/10 17:49:55: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:50:02: "amir1" has lost the game "Razm"
+
+ at 2023/02/10 17:50:04: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:50:10: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:50:15: "amir1" has won 5$
+
+ at 2023/02/10 17:50:17: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:50:23: "amir1" has won the game "Razm"
+
+ at 2023/02/10 17:50:28: "amir1" has won 30$
+
+ at 2023/02/10 17:50:32: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:50:39: "amir1" has lost the game "Razm"
+
+ at 2023/02/10 17:50:44: "amir1" has started the game "Razm"
+
+ at 2023/02/10 17:50:50: "amir1" has lost the game "Razm"
+
+ at 2023/02/10 17:51:02: "amir1" has closed the program
